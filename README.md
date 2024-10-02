@@ -1,7 +1,7 @@
 
 # ponderada_semana_8_OpenTelemetry
 
-Esse repositório contém o código de exemplo e a documentação de execução para a implementação de OpenTelemetry em uma aplicação Go, com integração a plataforma SigNoz. A implementação segue o tutorial disponível no artigo ["Complete Guide to Implementing OpenTelemetry in Go Applications"](https://signoz.io/blog/implementing-opentelemetry-in-go-applications/).
+Esse repositório contém o código de exemplo e a documentação de execução para a implementação de OpenTelemetry em uma aplicação Go, com integração a plataforma SigNoz. A implementação segue o tutorial disponível no artigo ["Complete Guide to Implementing OpenTelemetry in Go Applications"](https://signoz.io/opentelemetry/go/).
 
 ## Índice
 
